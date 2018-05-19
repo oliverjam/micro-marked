@@ -1,0 +1,20 @@
+{
+  "name": "micro-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.3.19",
+    "micro": "^9.3.1"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
